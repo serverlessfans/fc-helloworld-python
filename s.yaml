@@ -1,0 +1,6 @@
+TestPyGreetingService:
+  Component: fun
+  Provider: alibaba
+  Properties:
+    Region: ${Env(REGION)}
+    Config: s
